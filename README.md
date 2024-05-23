@@ -14,7 +14,7 @@ I am a passionate software engineering student at The Higher Institute of Inform
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,c,cpp,css,eclipse,firebase,git,github,HTML,java,js,matlab,MySQL,PHP,postman,py,ts,vscode,&perline=9" />
+    <img src="https://skillicons.dev/icons?i=angular,c,cpp,css,eclipse,firebase,git,github,HTML,java,js,matlab,MySQL,PHP,postman,py,ts,vscode" />
   </a>
 </p>
 ## 🌱 Currently Exploring
