@@ -33,7 +33,7 @@ I am a passionate software engineering student at The Higher Institute of Inform
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](www.linkedin.com/in/neji-dridi-a91213284)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/neji-dridi-a91213284/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
